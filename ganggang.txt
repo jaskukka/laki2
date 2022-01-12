@@ -1,0 +1,11 @@
+7
+69
+,
+g
+ggggg,,,,,g,,,,g,,,,,g,,ggggg,,,,,,,,,ggggg,,,,,g,,,,g,,,,,g,,ggggg,,
+g,,,,,g,,,g,g,,,gg,,,,g,g,,,,,g,,,,,,,g,,,,,g,,,g,g,,,gg,,,,g,g,,,,,g
+g,,,,,,,,g,,,g,,g,g,,,g,g,,,,,,,,,,,,,g,,,,,,,,g,,,g,,g,g,,,g,g,,,,,,
+g,,gggg,g,,,,,g,g,,g,,g,g,,gggg,,,,,,,g,,gggg,g,,,,,g,g,,g,,g,g,,gggg
+g,,,,,g,ggggggg,g,,,g,g,g,,,,,g,,,,,,,g,,,,,g,ggggggg,g,,,g,g,g,,,,,g
+g,,,,,g,g,,,,,g,g,,,,gg,g,,,,,g,,,,,,,g,,,,,g,g,,,,,g,g,,,,gg,g,,,,,g
+,ggggg,,g,,,,,g,g,,,,,g,,ggggg,,,,,,,,,ggggg,,g,,,,,g,g,,,,,g,,ggggg,

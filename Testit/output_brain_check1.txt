@@ -1,0 +1,13 @@
+-----------------------
+| Binary image editor |
+-----------------------
+print/info/invert/dilate/erode/load/quit?
+oxoxo
+ooxoo
+oxoxo
+print/info/invert/dilate/erode/load/quit?
+3 x 5
+o 10
+x 5
+print/info/invert/dilate/erode/load/quit?
+Bye, see you soon.

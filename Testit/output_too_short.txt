@@ -1,0 +1,5 @@
+-----------------------
+| Binary image editor |
+-----------------------
+Invalid image file!
+Bye, see you soon.

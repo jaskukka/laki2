@@ -1,0 +1,80 @@
+-----------------------
+| Binary image editor |
+-----------------------
+print/info/invert/dilate/erode/load/quit?
+print
+,,,,,,,,,,,,,,,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,,,,,,,,,,,,,,,
+print/info/invert/dilate/erode/load/quit?
+info
+10 x 15
+, 46
+@ 104
+print/info/invert/dilate/erode/load/quit?
+erode 9
+print/info/invert/dilate/erode/load/quit?
+print
+,,,,,,,,,,,,,,,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,@@@,,,,,,,@@@,
+,@@@,,,,,,,@@@,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,@@@@@@@@@@@@@,
+,,,,,,,,,,,,,,,
+print/info/invert/dilate/erode/load/quit?
+info
+10 x 15
+, 60
+@ 90
+print/info/invert/dilate/erode/load/quit?
+erode 3
+print/info/invert/dilate/erode/load/quit?
+print
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,@@@@@@@@@@@,,
+,,@,,,,,,,,,@,,
+,,@,,,,,,,,,@,,
+,,@,,,,,,,,,@,,
+,,@,,,,,,,,,@,,
+,,@@@@@@@@@@@,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+print/info/invert/dilate/erode/load/quit?
+info
+10 x 15
+, 120
+@ 30
+print/info/invert/dilate/erode/load/quit?
+erode 3
+print/info/invert/dilate/erode/load/quit?
+print
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+print/info/invert/dilate/erode/load/quit?
+info
+10 x 15
+, 150
+@ 0
+print/info/invert/dilate/erode/load/quit?
+quit
+Bye, see you soon.

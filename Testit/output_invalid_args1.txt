@@ -1,0 +1,5 @@
+-----------------------
+| Binary image editor |
+-----------------------
+Invalid command-line argument!
+Bye, see you soon.

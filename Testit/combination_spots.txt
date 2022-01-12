@@ -1,0 +1,108 @@
+-----------------------
+| Binary image editor |
+-----------------------
+print/info/invert/dilate/erode/load/quit?
+print
+----------------
+----------------
+---OOO----------
+--OOOOO---------
+--OOOOO----OOO--
+--OOOO----OOOO--
+---OO----OOOOO--
+--------OOOOO---
+-------OOOOO----
+------OOOOO-----
+-----OOOOO------
+----OOOOO-------
+----OOOOOOOO----
+----OOOOOOOO----
+-----OOOOOO-----
+----------------
+print/info/invert/dilate/erode/load/quit?
+info
+16 x 16
+- 178
+O 78
+print/info/invert/dilate/erode/load/quit?
+erode 3
+print/info/invert/dilate/erode/load/quit?
+print
+----------------
+----------------
+----------------
+----O-----------
+---OO-----------
+------------O---
+-----------O----
+----------O-----
+---------O------
+--------O-------
+-------O--------
+------OO--------
+-----OOO--------
+------OOOO------
+----------------
+----------------
+print/info/invert/dilate/erode/load/quit?
+info
+16 x 16
+- 238
+O 18
+print/info/invert/dilate/erode/load/quit?
+load
+print/info/invert/dilate/erode/load/quit?
+dilate 3
+print/info/invert/dilate/erode/load/quit?
+print
+----------------
+--OOOOO---------
+-OOOOOOO--------
+-OOOOOOO--OOOOO-
+-OOOOOOO-OOOOOO-
+-OOOOOOOOOOOOOO-
+-OOOOOOOOOOOOOO-
+--OOOOOOOOOOOOO-
+-----OOOOOOOOO--
+----OOOOOOOOO---
+---OOOOOOOOO----
+---OOOOOOOOOO---
+---OOOOOOOOOO---
+---OOOOOOOOOO---
+---OOOOOOOOOO---
+----------------
+print/info/invert/dilate/erode/load/quit?
+info
+16 x 16
+- 111
+O 145
+print/info/invert/dilate/erode/load/quit?
+load
+print/info/invert/dilate/erode/load/quit?
+invert
+print/info/invert/dilate/erode/load/quit?
+print
+OOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOO
+OOO---OOOOOOOOOO
+OO-----OOOOOOOOO
+OO-----OOOO---OO
+OO----OOOO----OO
+OOO--OOOO-----OO
+OOOOOOOO-----OOO
+OOOOOOO-----OOOO
+OOOOOO-----OOOOO
+OOOOO-----OOOOOO
+OOOO-----OOOOOOO
+OOOO--------OOOO
+OOOO--------OOOO
+OOOOO------OOOOO
+OOOOOOOOOOOOOOOO
+print/info/invert/dilate/erode/load/quit?
+info
+16 x 16
+O 178
+- 78
+print/info/invert/dilate/erode/load/quit?
+quit
+Bye, see you soon.

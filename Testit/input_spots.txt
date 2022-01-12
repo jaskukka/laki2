@@ -1,0 +1,14 @@
+print
+info
+erode 3
+print
+info
+load
+dilate 3
+print
+info
+load
+invert
+print
+info
+quit

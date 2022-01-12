@@ -1,0 +1,15 @@
+print
+info
+dilate 5
+print
+info
+dilate 3
+print
+info
+dilate 3
+print
+info
+dilate 3
+print
+info
+quit

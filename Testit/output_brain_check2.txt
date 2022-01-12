@@ -1,0 +1,59 @@
+-----------------------
+| Binary image editor |
+-----------------------
+print/info/invert/dilate/erode/load/quit?
+-----
+-----
+--+--
+-----
+-----
+print/info/invert/dilate/erode/load/quit?
+5 x 5
+- 24
++ 1
+print/info/invert/dilate/erode/load/quit?
+print/info/invert/dilate/erode/load/quit?
++++++
++++++
+++-++
++++++
++++++
+print/info/invert/dilate/erode/load/quit?
+5 x 5
++ 24
+- 1
+print/info/invert/dilate/erode/load/quit?
+print/info/invert/dilate/erode/load/quit?
++++++
++---+
++---+
++---+
++++++
+print/info/invert/dilate/erode/load/quit?
+5 x 5
++ 16
+- 9
+print/info/invert/dilate/erode/load/quit?
+print/info/invert/dilate/erode/load/quit?
++++++
++++++
+++-++
++++++
++++++
+print/info/invert/dilate/erode/load/quit?
+5 x 5
++ 24
+- 1
+print/info/invert/dilate/erode/load/quit?
+print/info/invert/dilate/erode/load/quit?
+-----
+-----
+--+--
+-----
+-----
+print/info/invert/dilate/erode/load/quit?
+5 x 5
+- 24
++ 1
+print/info/invert/dilate/erode/load/quit?
+Bye, see you soon.

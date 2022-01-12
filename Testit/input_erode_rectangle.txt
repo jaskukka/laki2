@@ -1,0 +1,12 @@
+print
+info
+erode 9
+print
+info
+erode 3
+print
+info
+erode 3
+print
+info
+quit

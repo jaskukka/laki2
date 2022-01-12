@@ -1,0 +1,25 @@
+print
+info
+save
+this is a test
+negate 3
+print all
+info info
+invert colours
+invert . #
+dilate 3 x 3
+dilate
+dilate 4
+dilate 11
+dilate 5 5
+erode
+erode 5 x 5
+erode 2
+erode -5
+erode 333
+erode 7 7
+load spot.txt
+quit now
+print
+info
+quit

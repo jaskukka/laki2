@@ -1,0 +1,9 @@
+print
+info
+dilate 11
+print
+info
+erode 11
+print
+info
+quit

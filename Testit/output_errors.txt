@@ -1,0 +1,73 @@
+-----------------------
+| Binary image editor |
+-----------------------
+print/info/invert/dilate/erode/load/quit?
+.........
+.........
+...###...
+..#####..
+..#####..
+..####...
+...##....
+.........
+.........
+print/info/invert/dilate/erode/load/quit?
+9 x 9
+. 62
+# 19
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+Invalid command!
+print/info/invert/dilate/erode/load/quit?
+.........
+.........
+...###...
+..#####..
+..#####..
+..####...
+...##....
+.........
+.........
+print/info/invert/dilate/erode/load/quit?
+9 x 9
+. 62
+# 19
+print/info/invert/dilate/erode/load/quit?
+Bye, see you soon.
